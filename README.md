@@ -2,4 +2,4 @@
 NorshareX client for eaglercraft
 
 
-Download the mhtml file if site is blocked
+Download the .html file if site is blocked
